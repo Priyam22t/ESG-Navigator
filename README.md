@@ -1,5 +1,3 @@
-Certainly! Here's a brief explanation of your ESG website, highlighting the use of Nivo and other key features:
-
 ---
 
 ## ESG Website Overview
@@ -102,4 +100,3 @@ We would like to thank our project supervisor and all contributors for their val
 
 ---
 
-Feel free to modify this README file as needed before uploading it to GitHub.
